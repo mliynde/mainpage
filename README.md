@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+**你好，世界！**
 
-You can use the [editor on GitHub](https://github.com/mliynde/mainpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这是一个普普通通的导航页……
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 链接
 
-### Markdown
+挂一些东西。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 个人博客
 
-```markdown
-Syntax highlighted code block
+- <https://blog.lyer.xyz>
 
-# Header 1
-## Header 2
-### Header 3
+#### 小游戏
 
-- Bulleted
-- List
+- [合成大洛谷](https://bagic.lyer.xyz)
+  - 二级域名是 **Bagic**，本来为 **Big-AC**，~~把 **i** 和 **a** 换了位置更容易读了~~。
 
-1. Numbered
-2. List
+#### 友链
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mliynde/mainpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+（待添加）
