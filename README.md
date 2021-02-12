@@ -12,8 +12,9 @@
 
 #### 小游戏
 
-- [合成大洛谷](https://bagic.app.lyer.xyz)
+- [合成大洛谷](https://bagic.lyer.xyz)
   - 二级域名是 **Bagic.APP**，本来为 **Big-AC**，~~把 **i** 和 **a** 换了位置更容易读了~~。
+  - 以后会迁移至<https://bagic.app.lyer.xyz>。
 
 #### 友链
 
